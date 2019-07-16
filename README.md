@@ -9,7 +9,7 @@ Python script for looking up active warranties on HPE servers.
 ## Usage
 ./hpe-warranty-lookup.py <Serial_Number>
 
-If you don't introduce a serial, the script ask for introduce.
+If you don't introduce a serial, the script ask to input.
 
 ./hpe-warranty-lookup-multiple
 
