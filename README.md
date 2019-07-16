@@ -11,6 +11,6 @@ Python script for looking up active warranties on HPE servers.
 
 If you don't introduce a serial, the script ask to input.
 
-./hpe-warranty-lookup-multiple
+./hpe-warranty-lookup-multiple.py
 
 Check serials in serials.txt and extract the information to checked.txt
