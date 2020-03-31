@@ -1,3 +1,4 @@
+# NOT WORKING BEACUSE CAPTCHA IMPLEMENTED IN WARRANTY HPE PAGE. Check other project with selenium
 # hpe-warranty-lookup
 
 Python script for looking up active warranties on HPE servers.
